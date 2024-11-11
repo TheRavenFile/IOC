@@ -1,0 +1,21 @@
+DLS: hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion
+Domain: r7i4vprxr2vznmhnnxj36264ofwx6extopdz535f5v357nqacifymbad.onion
+URL: r7i4vprxr2vznmhnnxj36264ofwx6extopdz535f5v357nqacifymbad.onion/SE.tar.gz
+
+Schneider Electric suffered a Data Breach from Hellcat Ransomware Group! 
+Hellcat Ransomware Group published data on their new Domain!
+
+💡Here is the short summary:-
+
+📌The group initially demanded $125,000 when it got listed on 4th November 2024.
+📌Hellcat had mentioned the current CEO "Olivier Blum" in their blog post. 
+📌The group also tried to mention the victim on Twitter, about the leak, but it did not gained much impressions.
+📌From the sample image shared, it is found that the group had infiltrated JIRA Server and Gravatar Platform which also exposed the clients of Schneider Electric.  
+📌They did not received the ransom till 8th November and released the data ~40GB (Compressed) via Magnet Link 🧲.
+📌As there were no enough peers/seeds available, they have removed it. 
+📌Now they have hosted the data on a new Onion Domain and a direct download is enabled (which is again low, depends on bandwidth)
+📌Earlier, Cactus Ransomware Group also infiltrated Schneider Electric France and claimed 1.5TB data in January 2024.
+
+Hence, the group had desperately waited for long! But unlike BlackCat, LockBit or DarkAngels, they failed to extort money from Schneider Electric, thinking the corporate would pay the ransom!
+
+Source: https://x.com/RakeshKrish12/status/1855900065111675174
