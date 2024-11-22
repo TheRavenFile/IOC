@@ -1,0 +1,44 @@
+FOUND 3 REAL IPs behind Safepay Ransomware!
+==========================================
+
+📍80.78.28.63 🇸🇪
+Running on: nginx/1.24.0 (Ubuntu)
+ASN: AS39287 (ab stract ltd)
+
+📍45.91.201.247 🇳🇱
+Running on: Apache/2.4.58 (Win64)
+ASN: AS211381 (Podaon SIA) 
+💡Both Onions are running on this IP
+
+📍77.37.49.40 🇱🇹
+Running on: nginx/1.24.0 (Ubuntu)
+ASN: AS47583 (Hostinger)
+
+
+💡SAFEPAY RANSOMWARE
+====================
+💡Emerged in late November 2024, targeting Windows; but has been active since August 2024
+📌Listed 25 Victims (as of now)
+📌Most targeted Countries: 🇺🇸 🇦🇷 🇧🇪 🇨🇦 🇬🇧
+📌Most targeted Industries: Service, Energy, Grocery, Healthcare, Hospitality, IT, Retail
+💡Among them, 2 were previously attacked by Meow and Black Suit
+📌Used ShareFinder.ps1 to gain network situational awareness on Windows domains
+📌Attackers used following hostnames: WIN-3IUUOFVTQAR and WIN-3IUUOFVTQAR while operating
+💡The Leaks are hosted with qkzxzeabulbbaevqkoy2ew4nukakbi4etnnkcyo3avhwu7ih7cql4gyd.onion
+💡The group has been using VULTR service for their DLS Hosting in TOR Network
+💡Assumed to be a quickly-setup group as vanity Onions are not chosen, with a leaked Conti/LockBit Encryptor being deployed
+
+
+IOCs
+====
+a0dc80a37eb7e2716c02a94adc8df9baedec192a77bde31669faed228d9ff526
+WIN-SBOE3CPNALE
+WIN-3IUUOFVTQAR
+80.78.28.63
+45.91.201.247
+77.37.49.40
+iieavvi4wtiuijas3zw4w54a5n2srnccm2fcb3jcrvbb7ap5tfphw6ad.onion
+qkzxzeabulbbaevqkoy2ew4nukakbi4etnnkcyo3avhwu7ih7cql4gyd.onion
+
+
+Source: https://x.com/RakeshKrish12/status/1859844498030985402
