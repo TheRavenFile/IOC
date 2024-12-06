@@ -29,11 +29,17 @@ MD5: 9b9b18360d7bae6349cb828f0eb22306
 SHA-1: 3e38b20b5a1f43f7a0720403857e220338377037
 SHA-256: e7c5a3df933efa32853ef85a22b55c9e99d10feb5b929ae514096106c63228c4 
 
-
-
-
+VICTIMS LISTED DIRECTLY 
+=======================
 https://51.77.140.4/backup.sql
 https://181.224.231.148/verificativa.sql:  old-plataforma.verificativa.com 
 https://207.180.201.194/rscn/rscn.sql
+
+Source: https://x.com/RakeshKrish12/status/1864558321606512948
+
+ANALYSIS
+========
+The group seems to be Data Broker/Breacher from Forums and listing the previously hacked/cracked databases on their new DLS on TOR network. 
+
 
 
