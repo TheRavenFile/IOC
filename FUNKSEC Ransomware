@@ -3,10 +3,16 @@ Data Leak Site (DLS)
 http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion/
 http://pke2vht5jdeninupk7i2thcfvxegsue6oraswpka35breuj7xxz2erid.onion/
 http://ykqjcrptcai76ru5u7jhvspkeizfsvpgovton4jmreawj4zdwe4qnlid.onion/
+http://funkiydk7c6j3vvck5zk2giml2u746fa5irwalw2kjem6tvofji7rwid.onion/
+http://funknqn44slwmgwgnewne6bintbooauwkaupik4yrlgtycew3ergraid.onion/
+http://funkxxkovrk7ctnggbjnthdajav4ggex53k6m2x3esjwlxrkb3qiztid.onion/
 
 7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion
 pke2vht5jdeninupk7i2thcfvxegsue6oraswpka35breuj7xxz2erid.onion
 ykqjcrptcai76ru5u7jhvspkeizfsvpgovton4jmreawj4zdwe4qnlid.onion
+funkiydk7c6j3vvck5zk2giml2u746fa5irwalw2kjem6tvofji7rwid.onion
+funknqn44slwmgwgnewne6bintbooauwkaupik4yrlgtycew3ergraid.onion
+funkxxkovrk7ctnggbjnthdajav4ggex53k6m2x3esjwlxrkb3qiztid.onion
 
 DDOS Tool advertised
 ====================
@@ -14,6 +20,12 @@ Filename: ddos1.py
 MD5:c21b18ab9db3f180927d4fe82d82ec60
 SHA-1: 7726d70eb75a66c4cf1bd74576108bfb5753d4a6
 SHA-256: 1a7ac94f8a2cbbcad2cb25a1aaf16cfe1e1156445e859a1822c834b21b564dfb
+
+Filename: dev.exe
+File Size: 5.24 MB
+MD5: c5c47f7a17ef4533d1c162042aa0313b
+SHA-1: b1022afe74471f945b18efed4366598bc6abb192
+SHA-256: c233aec7917cf34294c19dd60ff79a6e0fac5ed6f0cb57af98013c08201a7a1c 
 
 FUNKSEC RANSOMWARE
 ==================
@@ -40,6 +52,9 @@ Source: https://x.com/RakeshKrish12/status/1864558321606512948
 ANALYSIS
 ========
 The group seems to be Data Broker/Breacher from Forums and listing the previously hacked/cracked databases on their new DLS on TOR network. 
+Announced new Vanity TOR Domains in January 2025
+They uploaded their first Ransomware sample on 2nd January 2025 and advertised on their DLS. 
+
 
 
 
