@@ -70,7 +70,7 @@ FUNKSEC RANSOMWARE
 ==================
 13 Victims listed as of now (December 2024)
 Most affected sectors: Retail, Service
-Countries targeted: Brazil 🇧🇷, US 🇺🇸, Qatar🇶🇦, Jordan 🇯🇴, Peru 🇵🇪, Thailand 🇹🇭, HongKong 🇭🇰, India 🇮🇳,France 🇫🇷, Tunisia 🇹🇳, Italy 🇮🇹, Malaysia 🇲🇾    
+Countries targeted: Brazil 🇧🇷, US 🇺🇸, Qatar🇶🇦, Jordan 🇯🇴, Peru 🇵🇪, Thailand 🇹🇭, HongKong 🇭🇰, India 🇮🇳,France 🇫🇷, Tunisia 🇹🇳, Italy 🇮🇹, Malaysia 🇲🇾, Poland 🇵🇱, Mongolia 🇲🇳, Spain 🇪🇸, Vietnam 🇻🇳, Israel 🇮🇱, Cambodia 🇰🇭, Chile 🇨🇱, Canada 🇨🇦, Argentina 🇦🇷, Pakistan 🇵🇰, Nigeria 🇳🇬, Iran 🇮🇷, Australia 🇦🇺, Zambia 🇿🇲, Paraguay 🇵🇾, Germany 🇩🇪
 Breaches are uploaded to File Sharing Sites such as: FAST UPLOAD (fastupload.io), GoFile (gofile.io)
 Also publicizing victim company's exposed SQL Servers for direct download: 3 Such Victims spotted
 The earliest victim traces back to USA Network, which got uploaded on 15th July 2024
@@ -97,6 +97,8 @@ Announced new Vanity TOR Domains in January 2025
 They uploaded their first Ransomware sample on 2nd January 2025 and advertised on their DLS. 
 On 6th January 2025, the group had uploaded a malware sample in Go File Sharing Service, disguising as Avast Cracked Version.
 https://gofile.io/d/8FOSeP
+The group also uses Defacement of Web pages for Ransomware Negotiation. One victim was gsw.co.in whose website got offline and Defacement page is shown. 
+The group mainly targets Government entities of various countries such as India, Mongolia, Nigeria, 
 
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
