@@ -32,11 +32,17 @@ SHA256: 48D6A8C388142DE021A318E626A32B700CDC1BA68973910512A13D58ABCF0C57
 
 FUNK LOCKER
 ===========
-Filename: dev.exe
+1) Filename: dev.exe
 File Size: 5.24 MB
 MD5: c5c47f7a17ef4533d1c162042aa0313b
 SHA-1: b1022afe74471f945b18efed4366598bc6abb192
-SHA-256: c233aec7917cf34294c19dd60ff79a6e0fac5ed6f0cb57af98013c08201a7a1c 
+SHA-256: c233aec7917cf34294c19dd60ff79a6e0fac5ed6f0cb57af98013c08201a7a1c
+
+2) Filename: setup-avast-premium-x64.exe, xvWrMjHd7c.exe, G6N3ecNxgv.exe
+File Size: 5.23 MB
+MD5: e099255ea4aa8eb41e26e5d94737fc26
+SHA-1: 2c13d842e788e6c981b2fae65834b1220d55f5a8
+SHA-256: 89b9f7499d59d0d308f5ad02cd6fddd55b368190c37f6c5413c4cfcd343eeff3
 
 Using Powershell file from 2019
 ===============================
@@ -57,10 +63,15 @@ Breaches are uploaded to File Sharing Sites such as: FAST UPLOAD (fastupload.io)
 Also publicizing victim company's exposed SQL Servers for direct download: 3 Such Victims spotted
 The earliest victim traces back to USA Network, which got uploaded on 15th July 2024
 The group also made available a free DDOS Tool which got uplaoded on 3rd December 2024 named "ddos1.py"
+
 The tool is similar to another file named as: "hamster/Ddos.py" which was previously named as the same filename that got uploaded on 19th November 2024 from Ukraine
 MD5: 9b9b18360d7bae6349cb828f0eb22306
 SHA-1: 3e38b20b5a1f43f7a0720403857e220338377037
 SHA-256: e7c5a3df933efa32853ef85a22b55c9e99d10feb5b929ae514096106c63228c4 
+
+On 6th January 2025, the group had uploaded a malware sample in Go File Sharing Service, disguising as Avast Cracked Version.
+https://gofile.io/d/8FOSeP
+
 
 VICTIMS LISTED DIRECTLY 
 =======================
