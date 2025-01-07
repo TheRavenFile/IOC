@@ -69,9 +69,6 @@ MD5: 9b9b18360d7bae6349cb828f0eb22306
 SHA-1: 3e38b20b5a1f43f7a0720403857e220338377037
 SHA-256: e7c5a3df933efa32853ef85a22b55c9e99d10feb5b929ae514096106c63228c4 
 
-On 6th January 2025, the group had uploaded a malware sample in Go File Sharing Service, disguising as Avast Cracked Version.
-https://gofile.io/d/8FOSeP
-
 
 VICTIMS LISTED DIRECTLY 
 =======================
@@ -86,6 +83,51 @@ ANALYSIS
 The group seems to be Data Broker/Breacher from Forums and listing the previously hacked/cracked databases on their new DLS on TOR network. 
 Announced new Vanity TOR Domains in January 2025
 They uploaded their first Ransomware sample on 2nd January 2025 and advertised on their DLS. 
+On 6th January 2025, the group had uploaded a malware sample in Go File Sharing Service, disguising as Avast Cracked Version.
+https://gofile.io/d/8FOSeP
+
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=AMyJ
+-----END PGP PUBLIC KEY BLOCK-----
 
 
 
