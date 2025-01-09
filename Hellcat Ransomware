@@ -78,10 +78,10 @@ SOURCE: https://x.com/RakeshKrish12/status/1867087564588584972
 UPDATE 3
 ========
 💡The group had announced IntelBrokers - An infamous Data Breach Actor to their group, but the Session ID was missing. Hence, it can be considered as a fake claim.
-📌On Christmas day of 2024, the group added another victim: Car Care Plan of Turkey to their list. The leak was published on a new File Server.
-📌On Same day, Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD) - Blora Regency - An Indonesian Company also got listed under "SELLING" section. 
-📌Spotted a sample of HellCat which is using the same Ransom Note of Underground Ransomware Group of August 2023. 
-📌The same genre was spotted as Morpheus Ransomware on 7th January 2025. 
+💡On Christmas day of 2024, the group added another victim: Car Care Plan of Turkey to their list. The leak was published on a new File Server.
+💡On Same day, Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD) - Blora Regency - An Indonesian Company also got listed under "SELLING" section. 
+💡Spotted a sample of HellCat which is using the same Ransom Note of Underground Ransomware Group of August 2023. 
+💡The same genre was spotted as Morpheus Ransomware on 7th January 2025. 
 
 MD5: 931396d6332709956237cf76ee246b01
 FileName: 100M_redacted.exe
@@ -90,11 +90,10 @@ Created: 19th December 2024
 
 SAMPLE ANALYSIS
 ===============
-Data Encryption: BCrypt
-Uses Microsoft Code Signing Certificate for Evasion
-Uses DLL Hijacking
-Process Injected: WMIADAP.EXE (System Info Discovery)
-
+📌Data Encryption: BCrypt
+📌Uses Microsoft Code Signing Certificate for Evasion
+📌Uses DLL Hijacking
+📌Process Injected: WMIADAP.EXE (System Info Discovery)
 
 
 
