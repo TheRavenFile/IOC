@@ -1,17 +1,21 @@
 Onion DLS: hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion
+Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
 
 Domain: r7i4vprxr2vznmhnnxj36264ofwx6extopdz535f5v357nqacifymbad.onion
+File Server: hcatxn4ppkgmakaatrq6bsbhqk5ouhviygyx57gljjt5iseul5nvpayd.onion (December 2024)
 Running on: Apache/2.4.52 (Ubuntu)
+
 
 URLs: 
 r7i4vprxr2vznmhnnxj36264ofwx6extopdz535f5v357nqacifymbad.onion/SE.tar.gz //Schneider Electric Data Leak (38.3GB)
 r7i4vprxr2vznmhnnxj36264ofwx6extopdz535f5v357nqacifymbad.onion/Pinger.tar.gz //Pinger Data Leak (39.4GB)
 
+
 Surface Web: hellcat.rw
 
 UPDATE 1
 ========
-🚨Schneider Electric suffered a Data Breach from Hellcat Ransomware Group! 
+Schneider Electric suffered a Data Breach from Hellcat Ransomware Group! 
 Hellcat Ransomware Group published data on their new Domain!
 
 💡Here is the short summary:-
@@ -32,9 +36,8 @@ Source: https://x.com/RakeshKrish12/status/1855900065111675174
 
 UPDATE 2
 ========
-🚨Hellcat launched new Website with affiliates from Breach Forum
-
-hellcat[.]rw
+Hellcat launched new Website with affiliates from Breach Forum
+hellcat.rw
 
 💡The group had launched their domain on Surface web, deactivating their Onion domain (at present). 
 💡The TLD used is RW which is the country TLD of Rwanda, but we can also see it as a short form of "Ransomware" to match the TLD. 
@@ -72,8 +75,29 @@ Session ID: 05669f6772fe82ff338636947740e7d31ae87ad913f02e9c24f1b0d91d75dcce00
 😈Anon
 Session ID: 059f2a0aaeb61b81dccd5fb84bf1281e019b6ad73248c36076345591e133cec524
 
-
 SOURCE: https://x.com/RakeshKrish12/status/1867087564588584972
+
+UPDATE 3
+========
+💡The group had announced IntelBrokers - An infamous Data Breach Actor to their group, but the Session ID was missing. Hence, it can be considered as a fake claim.
+📌On Christmas day of 2024, the group added another victim: Car Care Plan of Turkey to their list. The leak was published on a new File Server.
+📌On Same day, Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD) - Blora Regency - An Indonesian Company also got listed under "SELLING" section. 
+📌Spotted a sample of HellCat which is using the same Ransom Note of Underground Ransomware Group of August 2023. 
+📌The same genre was spotted as Morpheus Ransomware on 7th January 2025. 
+
+MD5: 931396d6332709956237cf76ee246b01
+FileName: 100M_redacted.exe
+File Size: 18KB
+Created: 19th December 2024
+
+SAMPLE ANALYSIS
+===============
+Data Encryption: BCrypt
+Uses Microsoft Code Signing Certificate for Evasion
+Uses DLL Hijacking
+Process Injected: WMIADAP.EXE (System Info Discovery)
+
+
 
 
 Following is the PGP Key of the Hellcat Group:-
