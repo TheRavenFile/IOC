@@ -30,8 +30,8 @@ Uploaded on 22nd December 2024 on Go File Storage
 FileName: funkgenerate.py
 SHA256: 48D6A8C388142DE021A318E626A32B700CDC1BA68973910512A13D58ABCF0C57
 
-FUNK LOCKER
-===========
+FUNK LOCKER IOCs
+=================
 1) Filename: dev.exe
 File Size: 5.24 MB
 MD5: c5c47f7a17ef4533d1c162042aa0313b
@@ -56,6 +56,51 @@ File Size: 5.23 MB
 MD5: 834c7fd865eee5f7e17a3a1fb62e7051
 SHA-1: 0246696395c8514494435f645cdff034d70d0951
 SHA-256: 5226ea8e0f516565ba825a1bbed10020982c16414750237068b602c5b4ac6abd
+
+5) Filename: darkzone.exe
+File Size: 5.17 MB
+MD5: 61d7585b5702d195bc35e0be2f75915c
+SHA-1: ff96db4b937971ca2d60e785ff9f706a50e51de4
+SHA-256: 66dbf939c00b09d8d22c692864b68c4a602e7a59c4b925b2e2bef57b1ad047bd
+
+6) Filename: funksec.exe
+File Size: 5.19 MB
+MD5: 2456fdd65bc48203815f22e444d78fb0
+SHA-1: 1732202d4d9f130fafc3b9a4cad9995e0eda03d7
+SHA-256: dcf536edd67a98868759f4e72bcbd1f4404c70048a2a3257e77d8af06cb036ac
+
+7) Filename: Ghost.exe
+File Size: 5.19 MB
+MD5: 54e383ca658ebd3caaf586f032f1c401
+SHA-1: bc013aace5491c65a869e944123a4344cea6c1f0
+SHA-256: b1ef7b267d887e34bf0242a94b38e7dc9fd5e6f8b2c5c440ce4ec98cc74642fb
+
+8) Filename: PJ1GjKvCaR.exe
+File Size: 5.22 MB
+MD5: 039f85a7670428430274476cbe733db4
+SHA-1: f78a6b537244b544dc75a07bdbc7eda6ca15699e
+SHA-256: e622f3b743c7fc0a011b07a2e656aa2b5e50a4876721bcf1f405d582ca4cda22
+
+9) Filename: 9LsEDVv9hL.exe
+File Size: 5.24 MB
+MD5: c8dd54784fb1b6cbd16cec060487fb8f
+SHA-1: aa8e0f879f1b6a0d83d2657e86cca4b66d8235cf
+SHA-256: 20ed21bfdb7aa970b12e7368eba8e26a711752f1cc5416b6fd6629d0e2a44e5d
+
+10) Filename: SaWRUXQ2PL.exe
+File Size: 5.23 MB
+MD5: ca8ff8fb255a47d4be94af4ee3327c07
+SHA-1: 4c0c4941a31f9e45b422704a18fdfb44c2c1c4fa
+SHA-256: dd15ce869aa79884753e3baad19b0437075202be86268b84f3ec2303e1ecd966
+
+11) Filename:  ransomware.rs
+File Size: 3.14 KB
+MD5: f7a3a35cde86dc89bc76dbb59d5ce6de
+SHA-1: c6c334c5d3d6942e842c7c413a931a87e3e4b7cf
+SHA-256: 7e223a685d5324491bcacf3127869f9f3ec5d5100c5e7cb5af45a227e6ab4603
+
+
+
 
 Using Powershell file from 2019
 ===============================
