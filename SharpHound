@@ -1,10 +1,21 @@
 http://8.209.212.26:7777/
 =========================
 
-Sensitive Files found:
+Out of 5 files, only 1 malicious file is found which is a SharpHound Powershell file.
 
-poc.exe
-rev.sh
-SharpHound.exe
-SharpHound.ps1
-SharpHound1.ps1
+Filename: SharpHound1.ps1
+File Size: 1.70 MB
+MD5: 29879d7ad7fb122e4eea255329eea73a
+SHA1: fd7e5a1ff83d02eb59d7e916a0f98201ac2bdd91
+SHA256: 0ac0c64da86fcf32e21866225aee8a5bb7c77769e4243468fb3e39d1d8647610
+URL: http://8.209.212.26:7777/
+IP: 8.209.212.26 🇯🇵
+
+Found a malicious file among 5 legitimate files
+
+>>poc.exe
+>>rev.sh
+>>SharpHound.exe
+>>SharpHound.ps1
+>>SharpHound1.ps1
+
