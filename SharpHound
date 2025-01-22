@@ -8,14 +8,27 @@ File Size: 1.70 MB
 MD5: 29879d7ad7fb122e4eea255329eea73a
 SHA1: fd7e5a1ff83d02eb59d7e916a0f98201ac2bdd91
 SHA256: 0ac0c64da86fcf32e21866225aee8a5bb7c77769e4243468fb3e39d1d8647610
+Server Fingerprint SHA256: db3a29fa117b7c1c12b74d3795e68599c1f39bf0a5908c09853f5db58a1ef349
 URL: http://8.209.212.26:7777/
 IP: 8.209.212.26 🇯🇵
 
-Found a malicious file among 5 legitimate files
+Found a malicious file among 5 legitimate files:-
 
->>poc.exe
->>rev.sh
->>SharpHound.exe
->>SharpHound.ps1
->>SharpHound1.ps1
+📌poc.exe
+📌rev.sh
+📌SharpHound.exe
+📌SharpHound.ps1
+📌SharpHound1.ps1
+
+💡INTEL
+========
+
+💡In October 2024, 4 Powershell Scripts were observed on same host
+
+📌test.ps1: 98ac0cd1969150c84071fecf242ace39b2828fb13b04ecb82aa2d7ee2ae5cb36
+📌inject_space.ps1: 3f7c682b21d617d5da2112fd2378c23635dbd05bf579b920ad229a5ffd8eaa97
+📌final_mass.ps1: a78164a2ed9f3be82375816f041dfbc59246447c5b0ff0933f3dd6628d6a1d5a
+📌encoded.ps1: ddaf8e0fdcd482d98a0ac13e25e99b161e854a10249c5ca38fed485fd370b830
+
+💡These 4 PS files are similar to the newly found one.
 
