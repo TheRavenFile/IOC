@@ -8,6 +8,9 @@ Running on: Apache/2.4.52 (Ubuntu)
 URLs: 
 r7i4vprxr2vznmhnnxj36264ofwx6extopdz535f5v357nqacifymbad.onion/SE.tar.gz //Schneider Electric Data Leak (38.3GB)
 r7i4vprxr2vznmhnnxj36264ofwx6extopdz535f5v357nqacifymbad.onion/Pinger.tar.gz //Pinger Data Leak (39.4GB)
+hcatxrzzxsbdzxxievdsyfznk2fdaevvhshsawsyuwlnhn5ysh3hjoid.onion/ONEDEALER/
+hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion/downloads/EFI/
+
 
 Surface Web: hellcat.rw
 
@@ -87,6 +90,18 @@ MD5: 931396d6332709956237cf76ee246b01
 FileName: 100M_redacted.exe
 File Size: 18KB
 Created: 19th December 2024
+
+UPDATE 4
+========
+💡In March 2025, the group had revamped their DLS, adding their PGP Fingerprint as: 1EED C56E 15A3 27E4 331F F7E1 1807 E4F2 415B 49A9.
+💡Removed their old leaks such as Schneider and Pinger from the DLS List
+💡HellCat also introduced Paste Service (<1 Week) and File Upload Service (<25 MB) to host the files in the latest DLS Website
+💡TOX ID: F97D66EB390592BA053CC7C25C16ECDBE42F3C266DD2A99CB9D1DDABE69F6A41EF5FB3D9EE7F
+
+
+
+
+
 
 SAMPLE ANALYSIS
 ===============
