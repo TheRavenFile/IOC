@@ -100,7 +100,11 @@ UPDATE 4
 
 
 
-
+MD5 
+===
+03c2034d91589b84d2f95b5e9408aedb
+b0874f942efea5a90240477dc6c16de4
+f5eadd3928e3432e873d813683e174fd
 
 
 SAMPLE ANALYSIS
@@ -109,6 +113,31 @@ SAMPLE ANALYSIS
 📌Uses Microsoft Code Signing Certificate for Evasion
 📌Uses DLL Hijacking
 📌Process Injected: WMIADAP.EXE (System Info Discovery)
+📌HellCat covers their Encrypted Communication Track by deleting tlsdump.log after operations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
