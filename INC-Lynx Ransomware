@@ -1,5 +1,7 @@
-CONTEXT
-=======
+RESEARCH: https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/
+
+INTEL
+=====
 INC Ransomware, infamous for attacking Yamaha Motors Philippines, Xerox and various Healthcare industries used multiple DLS websites on surface web to leak victims data.
 INC Group had put their project for sale in May 2024 and rebranded as Lynx in July 2024
 INC Ransomware DLS (100+ Victims) is still active along with Lynx Ransomware DLS (40 Victims)
@@ -22,6 +24,9 @@ lynxchat.net
 lynxpanel.net
 incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion
 incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion
+incbackrlasjesgpfu5brktfjknbqoahe2hhmqfhasc5fb56mtukn4yd.onion
+incbacg6bfwtrlzwdbqc55gsfl763s3twdtwhp27dzuik6s6rwdcityd.onion
+incpaykabjqc2mtdxq6c23nqh4x6m5dkps5fr6vgdkgzp5njssx6qkid.onion
 
 SUBDOMAINS
 ==========
